@@ -1,2 +1,2 @@
 # bhdicaire.github.io
-Redirects to https://github.com/bhdicaire
+Redirects https://bhdicaire.github.io to https://github.com/bhdicaire
